@@ -1,5 +1,6 @@
 {
-  "name": "realtor",
+  "name": "apexdev",
+  "homepage": "https://apexdevofficial.github.io/Property_Catalogue",
   "version": "0.1.0",
   "private": true,
   "scripts": {
